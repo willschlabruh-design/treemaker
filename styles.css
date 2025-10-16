@@ -1,0 +1,62 @@
+#header {
+    margin:0 auto;
+    background-color: aqua;
+    min-height: 100px;
+    width: 70%;
+    opacity:1
+    
+}
+.tree
+{
+    position: absolute;
+    z-index: 1;
+    left: 15%;
+    font-size: 75px;
+    text-decoration: none;
+}
+
+h1 {
+    color: blue;
+    position: absolute;
+    left:710px;
+    top: 10px;
+   
+}
+p {
+    color:rgb(0, 255, 106);
+    font-size: 40px;
+    text-align: center;
+    
+}
+body {
+    background-color: #99c4c4;
+}
+.boxes {
+    min-height: 175px;
+    background-color: cornflowerblue;
+    width:70%;
+    margin:0 auto;
+    padding: 0;
+
+}
+.box2 {
+    min-height: 50px;
+    background-color: cornflowerblue;
+    width:15%;
+    margin:0 auto;
+    height: 175px;
+}
+.buytree {
+    position:absolute;
+    font-size: 50px;
+    color: aquamarine;
+    top: 3%;
+    right: 20%;
+}
+.dark {
+    position:absolute;
+    font-size: 50px;
+    color: aquamarine;
+    top: 3%;
+    left: 30%;
+}

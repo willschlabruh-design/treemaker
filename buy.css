@@ -1,0 +1,32 @@
+body {
+    background-color: #99c4c4;
+}
+#header {
+    margin:0 auto;
+    background-color: aqua;
+    min-height: 100px;
+    width: 70%;
+    opacity:1
+}
+.tree
+{
+    position: absolute;
+    z-index: 1;
+    left: 15%;
+    font-size: 75px;
+    text-decoration: none;
+}
+
+.headtype {
+    color: blue;
+    position: absolute;
+    left:710px;
+    top: 10px;
+   
+}
+h1 {
+    color:rgb(0, 255, 106);
+    text-align: center;
+
+   
+}
